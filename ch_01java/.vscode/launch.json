@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex01_CountTo100",
+            "request": "launch",
+            "mainClass": "Ex01_CountTo100",
+            "projectName": "ch_01java_e99598d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex02_CountToN",
+            "request": "launch",
+            "mainClass": "Ex02_CountToN",
+            "projectName": "ch_01java_e99598d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex03_MultiplesOfThree",
+            "request": "launch",
+            "mainClass": "Ex03_MultiplesOfThree",
+            "projectName": "ch_01java_e99598d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex04",
+            "request": "launch",
+            "mainClass": "Ex04",
+            "projectName": "ch_01java_e99598d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex05_AverageCalculator",
+            "request": "launch",
+            "mainClass": "Ex05_AverageCalculator",
+            "projectName": "ch_01java_e99598d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex06_Hypotenuse",
+            "request": "launch",
+            "mainClass": "Ex06_Hypotenuse",
+            "projectName": "ch_01java_e99598d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex07_SevensNotFives",
+            "request": "launch",
+            "mainClass": "Ex07_SevensNotFives",
+            "projectName": "ch_01java_e99598d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex08_Factorials",
+            "request": "launch",
+            "mainClass": "Ex08_Factorials",
+            "projectName": "ch_01java_e99598d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "ch_01java_e99598d3"
+        }
+    ]
+}
